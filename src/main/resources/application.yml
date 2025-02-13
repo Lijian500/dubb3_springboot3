@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: dubb3_springboot3
+
+dubbo:
+  registry:
+    address: nacos://192.168.18.35:8848?namespace=dev
